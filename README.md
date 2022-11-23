@@ -5,4 +5,4 @@
 
 [![libft](https://github.com/alo-galaco/alo-galaco/blob/master/42_badges/libftm.png)](https://github.com/alo-galaco/Libft)
 [![get_next_line](https://github.com/alo-galaco/alo-galaco/blob/master/42_badges/get_next_linem.png)](https://github.com/alo-galaco/Get_Next_Line)
-[![ft_printf](https://github.com/alo-galaco/alo-galaco/blob/master/42_badges/libfte.png)](https://github.com/alo-galaco/Ft_printf)
+[![ft_printf](https://github.com/alo-galaco/alo-galaco/blob/master/42_badges/ft_printfe.png)](https://github.com/alo-galaco/Ft_printf)
